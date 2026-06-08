@@ -32,3 +32,8 @@ Compare Tokyo vs Osaka for software engineering roles and estimate monthly savin
 - Integrate real job APIs or scraping (TokyoDev / Japan Dev)
 - Convert into interactive dashboard (Streamlit)
 - Add live cost-of-living data
+
+## Sample Output
+
+![City Savings](city_savings_chart.png)
+![Analysis](analysis_output.png)
